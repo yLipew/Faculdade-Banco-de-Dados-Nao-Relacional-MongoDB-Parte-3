@@ -216,6 +216,6 @@ mongodb://localhost:27017/
 ## 👨‍💻 Autor
 
 Felipe Mendonça
-Inteligência Artificial / Banco de Dados Não Relacional
+Inteligência Artificial / Data Mining e Graph Mining
 FATESG / SENAI
 2026
